@@ -3,7 +3,7 @@ package hacker;
 import java.util.Scanner;
 
 public class Solution5 {
-
+//Java End-of-file
 	public static void main(String args[]) {
 		Scanner scan = new Scanner(System.in);
 		int n = 1;
